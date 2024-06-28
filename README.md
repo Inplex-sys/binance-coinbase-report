@@ -1,10 +1,13 @@
-### Report on Privacy and Anonymity Risks Associated with Coinbase and Binance
+#### 📣 Known References For Privacy
+[Kycnot](https://kycnot.me) | [PrivacyTools](https://www.privacytools.io) | [Stealths](https://stealths.net/)
 
-## Overview
+## Report on Privacy and Anonymity Risks Associated with Coinbase and Binance
+
+### Overview
 
 This repository contains a detailed report on the privacy and anonymity risks associated with major cryptocurrency exchanges, particularly focusing on Coinbase and Binance. As the popularity of cryptocurrencies continues to rise, so do the concerns regarding user privacy and the potential for centralized control and surveillance. This report delves into how these exchanges collect and use user data, the implications of their cooperation with law enforcement agencies, and the broader impact on the decentralization of cryptocurrency.
 
-## Contents
+### Contents
 
 - **Introduction**: Discusses the promise of financial privacy through cryptocurrencies and how major exchanges undermine these principles.
 - **IP Address Collection and User Identification**: Explores the methods and implications of IP address tracking and user profiling by exchanges.
