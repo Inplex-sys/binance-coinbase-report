@@ -94,6 +94,9 @@ To mitigate these risks and enhance privacy and anonymity, users should consider
     - **Use of VPNs and Tor**: To mask their IP addresses, users should utilize VPNs and Tor, which provide an additional layer of anonymity.
     - **Hardware Wallets**: Storing cryptocurrencies in hardware wallets ensures that users maintain control over their private keys, reducing reliance on custodial services provided by exchanges.
 
+![image](https://github.com/Inplex-sys/binance-coinbase-report/assets/69421356/9425dd15-7388-4843-bb69-aa86bfb1c6e3)
+
+
 #### Conclusion
 
 While Coinbase and Binance provide significant convenience and accessibility for cryptocurrency transactions, their practices pose substantial risks to user privacy and anonymity. By saving IP addresses and linking them to customer token addresses, along with collaborating with law enforcement agencies, these exchanges compromise the core principles of privacy and decentralization that cryptocurrencies were founded upon. Users must be aware of these risks and take proactive measures to protect their privacy and maintain the anonymity that is central to the cryptocurrency ethos. Through the adoption of decentralized platforms, privacy-focused cryptocurrencies, and enhanced personal security measures, users can better safeguard their financial privacy in an increasingly monitored digital landscape.
