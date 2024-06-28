@@ -2,6 +2,9 @@
 [Kycnot](https://kycnot.me) | [PrivacyTools](https://www.privacytools.io) | [Stealths](https://stealths.net/)
 ## Report on Privacy and Anonymity Risks Associated with Coinbase and Binance
 
+![test](https://github.com/Inplex-sys/binance-coinbase-report/assets/69421356/7da882da-f949-4685-9ef4-677aca28efd9)
+
+
 ##### This report aims to inform users about the privacy implications of using major cryptocurrency exchanges and empower them with the knowledge to make more secure and private choices in the digital financial landscape.
 
 ### Overview
